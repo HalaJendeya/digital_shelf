@@ -1,0 +1,9 @@
+{
+  "success": false,
+  "message": "You can review a product after receiving it",
+  "status": 403,
+  "error": {
+    "code": "REVIEW_REQUIRES_PURCHASE",
+    "details": {}
+  }
+}

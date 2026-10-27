@@ -1,0 +1,9 @@
+{
+  "success": false,
+  "message": "Invalid coupon code",
+  "status": 422,
+  "error": {
+    "code": "COUPON_INVALID",
+    "details": {}
+  }
+}

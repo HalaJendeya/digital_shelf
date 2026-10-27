@@ -1,0 +1,12 @@
+{
+  "success": false,
+  "message": "Requested quantity of \"The Maze Runner\" is not available. In stock: 50",
+  "status": 422,
+  "error": {
+    "code": "OUT_OF_STOCK",
+    "details": {
+      "product_id": 104,
+      "available": 50
+    }
+  }
+}

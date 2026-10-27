@@ -1,0 +1,77 @@
+{
+  "success": true,
+  "message": "Success",
+  "data": [
+    {
+      "id": 199,
+      "number": "SQ-1001",
+      "status": "pending",
+      "status_label": "Pending",
+      "subtotal": 25,
+      "discount": 0,
+      "delivery_fee": 10,
+      "total": 35,
+      "currency": "ILS",
+      "currency_symbol": "₪",
+      "coupon_code": null,
+      "payment_method": "cash",
+      "payment_method_label": "Cash on delivery",
+      "customer_name": "QA Test Customer",
+      "phone": "0599000111",
+      "address": "TEST ORDER - automated QA, please ignore",
+      "notes": "Automated app QA test order - will be cancelled immediately",
+      "can_cancel": true,
+      "items_count": 1,
+      "timeline": [
+        {
+          "status": "pending",
+          "label": "Pending",
+          "done": true,
+          "at": "2026-10-21T12:08:30+00:00",
+          "note": null
+        },
+        {
+          "status": "confirmed",
+          "label": "Confirmed",
+          "done": false,
+          "at": null,
+          "note": null
+        },
+        {
+          "status": "preparing",
+          "label": "Preparing",
+          "done": false,
+          "at": null,
+          "note": null
+        },
+        {
+          "status": "shipped",
+          "label": "Shipped",
+          "done": false,
+          "at": null,
+          "note": null
+        },
+        {
+          "status": "delivered",
+          "label": "Delivered",
+          "done": false,
+          "at": null,
+          "note": null
+        }
+      ],
+      "store": {
+        "id": 25,
+        "name": "Digital Shelf",
+        "slug": "digitalshelf"
+      },
+      "created_at": "2026-10-21T12:08:30+00:00",
+      "updated_at": "2026-10-21T12:08:30+00:00"
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "per_page": 15,
+    "total": 1,
+    "last_page": 1
+  }
+}

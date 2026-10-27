@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "message": "Added to favorites",
+  "data": {
+    "product_id": 104,
+    "is_favorite": true
+  }
+}

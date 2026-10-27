@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "message": "Your account was created, welcome!",
+  "data": {
+    "token": "<redacted>",
+    "user": {
+      "id": 124,
+      "name": "QA Test Customer",
+      "email": "digitalshelf.qa.1792584433@example.com",
+      "phone": "0599000111",
+      "role": "customer",
+      "role_label": "Customer",
+      "avatar": null,
+      "initials": "QT",
+      "cohort": null,
+      "is_active": true,
+      "last_login_at": null,
+      "created_at": "2026-10-21T12:07:19+00:00"
+    }
+  }
+}
